@@ -2,7 +2,7 @@
 import demoji
 
 #entering the emoji
-text=input(" enter the emojies ")
+text=input("\n enter the emojies ")
 
 #printing the defination of emoji
 print(demoji.findall(text))
